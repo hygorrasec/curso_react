@@ -1,7 +1,7 @@
-import CursoReact from "./components/CursoReact"
+import Aluno from "./components/Aluno"
 
 function App() {
-  return <CursoReact />
+  return <Aluno />
 }
 
 export default App
