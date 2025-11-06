@@ -1,7 +1,7 @@
-import Sobrescrita from "./components/Sobrescrita"
+import HerancaCadeia from "./components/HerancaCadeia"
 
 function App() {
-  return <Sobrescrita />
+  return <HerancaCadeia />
 }
 
 export default App
