@@ -1,7 +1,7 @@
-import ContaBancaria from "./components/ContaBancaria"
+import CursoReact from "./components/CursoReact"
 
 function App() {
-  return <ContaBancaria />
+  return <CursoReact />
 }
 
 export default App
