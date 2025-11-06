@@ -1,7 +1,7 @@
-import Aluno from "./components/Aluno"
+import Funcionario from "./components/Funcionario"
 
 function App() {
-  return <Aluno />
+  return <Funcionario />
 }
 
 export default App
