@@ -1,7 +1,7 @@
-import Aluno from "./components/Aluno"
+import Sobrescrita from "./components/Sobrescrita"
 
 function App() {
-  return <Aluno />
+  return <Sobrescrita />
 }
 
 export default App
