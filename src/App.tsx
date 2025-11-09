@@ -1,7 +1,7 @@
-import CursoReact from "./components/CursoReact"
+import Polimorfismo from "./components/Polimorfismo"
 
 function App() {
-  return <CursoReact />
+  return <Polimorfismo />
 }
 
 export default App
