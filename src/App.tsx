@@ -1,7 +1,7 @@
-import ErroDeSintaxe from "./components/ErroDeSintaxe"
+import ErroDeReferencia from "./components/ErroDeReferencia"
 
 function App() {
-  return <ErroDeSintaxe />
+  return <ErroDeReferencia />
 }
 
 export default App
