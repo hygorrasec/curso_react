@@ -1,7 +1,7 @@
-import TratamentoErros from "./components/TratamentoErros"
+import ValidacaoSimples from "./components/ValidacaoSimples"
 
 function App() {
-  return <TratamentoErros />
+  return <ValidacaoSimples />
 }
 
 export default App
