@@ -1,7 +1,7 @@
-import Instrumento from "./components/Instrumento"
+import TratamentoErros from "./components/TratamentoErros"
 
 function App() {
-  return <Instrumento />
+  return <TratamentoErros />
 }
 
 export default App
