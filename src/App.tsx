@@ -1,7 +1,7 @@
-import CursoReact from "./components/CursoReact"
+import Somador from "./components/Somador"
 
 function App() {
-  return <CursoReact />
+  return <Somador />
 }
 
 export default App
