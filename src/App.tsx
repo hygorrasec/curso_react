@@ -1,7 +1,7 @@
-import ValidacaoSimples from "./components/ValidacaoSimples"
+import ErroDeSintaxe from "./components/ErroDeSintaxe"
 
 function App() {
-  return <ValidacaoSimples />
+  return <ErroDeSintaxe />
 }
 
 export default App
