@@ -1,7 +1,7 @@
-import Polimorfismo from "./components/Polimorfismo"
+import Instrumento from "./components/Instrumento"
 
 function App() {
-  return <Polimorfismo />
+  return <Instrumento />
 }
 
 export default App
