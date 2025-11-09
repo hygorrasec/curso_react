@@ -1,7 +1,7 @@
-import Somador from "./components/Somador"
+import Batalha from "./components/Batalha"
 
 function App() {
-  return <Somador />
+  return <Batalha />
 }
 
 export default App
