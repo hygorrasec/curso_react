@@ -1,7 +1,19 @@
-import CursoReact from "./components/CursoReact"
+import InputControlado from "./components/InputControlado"
+import Formulario from "./components/Formulario"
+import Titulo from "./components/Titulo"
+import Botao from "./components/Botao/Botao";
+import Caixa from "./components/Caixa";
 
 function App() {
-  return <CursoReact />
+  return (
+    <>
+      <InputControlado />
+      <Formulario />
+      <Titulo />
+      <Botao texto="Clique Aqui" />
+      <Caixa />
+    </>
+  )
 }
 
 export default App
