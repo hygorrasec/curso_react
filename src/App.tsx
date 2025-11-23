@@ -1,7 +1,12 @@
-import CursoReact from "./components/CursoReact"
+import Contador from "../x/Contador";
+import Tema from "../x/Tema";
 
-function App() {
-  return <CursoReact />
+export default function App() {
+  return (
+    <>
+      <Tema />
+      <Contador />
+    </>
+  );
 }
 
-export default App
