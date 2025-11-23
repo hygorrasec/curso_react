@@ -1,5 +1,5 @@
-import Contador from "../x/Contador";
-import Tema from "../x/Tema";
+import Contador from "./components/Contador";
+import Tema from "./components/Tema";
 
 export default function App() {
   return (
